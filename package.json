@@ -1,8 +1,11 @@
 {
-  "name": "Editor",
+  "name": "rich-text-editor",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "start": "electron src"
+  },
   "dependencies": {
     "electron": "^10.1.5"
   }
