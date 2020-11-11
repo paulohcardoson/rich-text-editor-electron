@@ -14,11 +14,11 @@
   <p align="center">
     A Rich Text Editor app for Desktop
     <br />
-    <a href="https://github.com/PauloHCardosoN/anime-downloader"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/PauloHCardosoN/rich-text-editor-electron"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://github.com/PauloHCardosoN/anime-downloader/issues">Report Bug</a>
+    <a href="https://github.com/PauloHCardosoN/rich-text-editor-electron/issues">Report Bug</a>
     ·
-    <a href="https://github.com/PauloHCardosoN/anime-downloader/issues">Request Feature</a>
+    <a href="https://github.com/PauloHCardosoN/rich-text-editor-electron/issues">Request Feature</a>
   </p>
 </p>
 
