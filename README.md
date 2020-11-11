@@ -12,7 +12,7 @@
   <h1 align="center">Rich Text Editor</h1>
 
   <p align="center">
-    A React Native app to download animes episodes
+    A Rich Text Editor app for Desktop
     <br />
     <a href="https://github.com/PauloHCardosoN/anime-downloader"><strong>Explore the docs »</strong></a>
     <br />
