@@ -98,7 +98,7 @@ Feel free to contribute to this project.
 
 * Access my portifolio: https://paulohcardoson.github.io
 * Visit my repositories on github: https://github.com/PauloHCardosoN
-* Call me on Telegram: @PauloHCardoso
+* Call me on Telegram: @paulohcardoson
 
 ## If you want to support me
 
